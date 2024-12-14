@@ -8,14 +8,18 @@ The aim is to be able to create smart contracts for [Eve Frontier](https://www.e
 - import EveWorld, Solidity Contracts to AwakeVy
 - import Mud Framework Contracts to AwakeVy
 
+## Link list
+[Websites and Documentations](https://github.com/ProjectAwakeVy/docs/blob/main/links.md)
+
+
 ## Todos
-- [ ] deploy Docs with [MKDocs](https://www.mkdocs.org/user-guide/deploying-your-docs/)
-- [ ] create AwakeVy Project Template
-- [ ] add more [[Reference]] and guides for Vyper Language
-- [ ] add Installation instructions to [[Getting started]]
+- [ ] create AwakeVy Project init Template
+- [ ] add more [Reference](https://github.com/ProjectAwakeVy/docs/blob/main/links.md) and guides about Vyper Language
+- [ ] add Installation instructions to [Getting started](https://github.com/ProjectAwakeVy/docs/blob/main/Getting%20Started.md)
 - [ ] add [[ssu-vy]]
 - [ ] add [[smart-turrets-vy]]
 - [ ] add more
+- [ ] deploy Docs with [MKDocs](https://www.mkdocs.org/user-guide/deploying-your-docs/)
 
 # Contributions
 - [ ] add Contribution facts
